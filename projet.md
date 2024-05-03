@@ -1,14 +1,17 @@
 # Inside AirBnb London
-[Dataset](https://insideairbnb.com/london/)
+[Dataset (Remote)](https://insideairbnb.com/london/)
 
 # NBA Stats
-[Dataset](https://www.kaggle.com/datasets/sumitrodatta/nba-aba-baa-stats/)
+[Dataset (Remote)](https://www.kaggle.com/datasets/sumitrodatta/nba-aba-baa-stats/)
+
 
 # Netflix Movies and TV Shows
-[Dataset](https://www.kaggle.com/datasets/rahulvyasm/netflix-movies-and-tv-shows)
+[Dataset (Remote)](https://www.kaggle.com/datasets/rahulvyasm/netflix-movies-and-tv-shows)
 
 # All Trump's Twitter insults
-[Dataset](https://www.kaggle.com/datasets/ayushggarg/all-trumps-twitter-insults-20152021)
+[Dataset (Remote)](https://www.kaggle.com/datasets/ayushggarg/all-trumps-twitter-insults-20152021)
+
+![Dataset (Local)](datasets/trump_insult_tweets_2014_to_2021.csv)
 
 - Afficher les 7 comptes que Donald Trump insulte le plus (en nombres et en pourcentages)
 - Afficher les insultes que Donald Trump utilise le plus (en nombres et en pourcentages)
