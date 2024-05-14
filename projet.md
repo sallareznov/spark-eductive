@@ -10,6 +10,12 @@
 
 [Dataset (Local)](datasets/netflix_titles.csv)
 
+- Lister les réalisateurs les plus prolifiques, et leur nombre de films respectifs
+- Afficher en pourcentages les pays dans lesquels les films/séries ont été produits
+- Quelle est la durée moyenne des films sur Netflix? Le film le plus long? Le film le plus court?
+- Afficher la durée moyenne des films par intervalles de 2 ans. Exemple: 2024-2022: x minutes, 2022-2020: y minutes, etc...
+- Quel est le duo réalisateur-acteur qui a collaboré dans le plus de films?
+
 # All Trump's Twitter insults
 [Dataset (Remote)](https://www.kaggle.com/datasets/ayushggarg/all-trumps-twitter-insults-20152021)
 
