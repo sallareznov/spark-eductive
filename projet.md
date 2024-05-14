@@ -8,6 +8,8 @@
 # Netflix Movies and TV Shows
 [Dataset (Remote)](https://www.kaggle.com/datasets/rahulvyasm/netflix-movies-and-tv-shows)
 
+[Dataset (Local)](datasets/netflix_titles.csv)
+
 # All Trump's Twitter insults
 [Dataset (Remote)](https://www.kaggle.com/datasets/ayushggarg/all-trumps-twitter-insults-20152021)
 
