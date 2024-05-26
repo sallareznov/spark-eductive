@@ -1,9 +1,11 @@
-# Inside AirBnb London
+# Sujet
+
+<ins>**Dernier délai de rendu**</ins>: Vendredi 7 Juin à 23H59 
+
+## Inside AirBnb London
 [Dataset (Remote)](https://insideairbnb.com/london/)
 
-# NBA Stats
-[Dataset (Remote)](https://www.kaggle.com/datasets/sumitrodatta/nba-aba-baa-stats/)
-
+- Reproduire les données de la page Explore à l'aide des [données](https://data.insideairbnb.com/united-kingdom/england/london/2024-03-19/data/listings.csv.gz)
 
 # Netflix Movies and TV Shows
 [Dataset (Remote)](https://www.kaggle.com/datasets/rahulvyasm/netflix-movies-and-tv-shows)
@@ -25,7 +27,4 @@
 - Afficher les insultes que Donald Trump utilise le plus (en nombres et en pourcentages)
 - Quelle est l'insulte que Donald Trump utilise le plus pour Joe Biden?
 - Combien de fois a-t-il tweeté le mot "Mexico"? Le mot "China"? Le mot "coronavirus"?
-- Classer le nombre de tweets par période de 6 mois 
-
-# Trending Youtube Video Statistics
-[Dataset](https://www.kaggle.com/datasets/asaniczka/trending-youtube-videos-113-countries/)
+- Classer le nombre de tweets par période de 6 mois
